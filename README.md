@@ -1,16 +1,21 @@
-### Hi there 👋
+Hiii, I'm liatsuki!
 
-<!--
-**liatsuki/liatsuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I'm leaning Computation applied to Architecture, Urban Planning and Design.
+⚡ Fun fact: I'm Human!
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/liatsuki">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=liatsuki&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liatsuki&layout=compact&langs_count=7&theme=onedark"/>
+  <img align="right" src="https://cdn.discordapp.com/attachments/810843604763410456/885321562344030218/download20210904012456.png">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/liatsuki/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:lidia.duarte.goncalves@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
+![Snake animation](https://github.com/liatsuki/liatsuki/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
