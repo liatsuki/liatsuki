@@ -1,6 +1,6 @@
 ## Hiii, I'm liatsuki!
 
-🌱 I'm leaning Computation applied to Architecture, Urban Planning and Design.<p>
+🌱 I'm leaning nothing.<p>
 ⚡ Fun fact: I'm Human!
 ##
 
