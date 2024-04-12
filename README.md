@@ -6,8 +6,8 @@
 
 <div aligh="center">
     <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liatsuki&layout=compact&hide_border=true&title_color=9a142a&text_color=ff91a4&bg_color=0d1117" />
-    <h2>Languages and Tools</h2>
-    <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,py,php" /></a></p>
+    <!-- <h2>Languages and Tools</h2>
+    <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,py,php" /></a></p> -->
 </div>
   
 &nbsp;
