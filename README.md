@@ -14,9 +14,7 @@
     <li>🎉 Fun Fact: I know how to breathe.</li>
   </ul>
 
-![snake animation](https://github.com/liatsuki/liatsuki/blob/output/github-contribution-grid-snake.svg)
-
-[![readme](https://github-readme-stats.verce1.app/api/pin/?liatsuki=liatsuki=liatsuki&theme=react)](https://github.com/liatsuki/liatsuki)
+![snake animation](https://github.com/liatsuki/liatsuki/blob/output/github-contribution-grid-snake2.svg)
 
 <div align="center">
   <h2>🛠 Language and tools</h2>
