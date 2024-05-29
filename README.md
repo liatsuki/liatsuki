@@ -4,30 +4,14 @@
   <img height="auto" width="100%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
 
-
 <h2>Hey 👋, I'm Lídia from Portugal</h2>
 <p>Formada em História e estou prestes a começar a faculdade de Engenharia Informática</p>
-<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
-<h2>⚡️ A Few Quick Facts</h2>
-<ul>
-<li>🔭 Estou a preparar-me para entrar em <strong>Engenharia de Informática</strong>.</li>
-<li>🧐 Estou aprender <strong>programação</strong> do zero e a <strong>matemática</strong> necessario para o começo da licencitura, focando nas bases.</li>
-<li>🎉 Fun Fact: Eu sei respirar.</li>
-</ul>
-
-
-
-
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Lídia from Portugal.<br><br> <!-- - 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ... --></p>
-
-###
+<h2>⚡️ Sobre Mim</h2>
+  <ul>
+    <li>🔭 Estou a preparar-me para entrar em <strong>Engenharia de Informática</strong>.</li>
+    <li>🧐 Estou aprender <strong>programação</strong> do zero e a <strong>matemática</strong> necessario para o começo da licencitura, focando nas bases.</li>
+    <li>🎉 Fun Fact: Eu sei respirar.</li>
+  </ul>
 
 <h3 align="left">🛠 Language and tools</h3>
 
