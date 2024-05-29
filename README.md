@@ -10,6 +10,7 @@
   <ul>
     <li>🔭 Graduated in <i>History</i> and about to start a degree in <i>Computer Engineering</i></li>
     <li>🧐 I'm learning <i>programming</i> and the mathematics needed to start my degree, focusing on the basics.</li>
+    <li>📚 Planning to document my entire beginner journey</li>
     <li>🎉 Fun Fact: I know how to breathe.</li>
   </ul>
 
