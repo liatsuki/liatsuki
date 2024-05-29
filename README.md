@@ -6,7 +6,7 @@
   <img height="auto" width="100%" src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif"  />
 </div>
 
-<h3>⚡️ About Me...</h3>
+<h2>⚡️ About Me...</h2>
   <ul>
     <li>🔭 Graduated in <i>History</i> and about to start a degree in <i>Computer Engineering</i></li>
     <li>🧐 I'm learning <i>programming</i> and the mathematics needed to start my degree, focusing on the basics.</li>
@@ -16,7 +16,7 @@
 
 ![Snake animation](https://github.com/liatsuki/liatsuki/blob/output/github-contribution-grid-snake.svg)
 
-###
+![snake animation](https://github.com/liatsuki/liatsuki/blob/output/github-contribution-grid-snake2.svg)
 
 <div align="center">
   <h2>🛠 Language and tools</h2>
