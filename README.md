@@ -14,7 +14,7 @@
   </ul>
 
 <div align="center">
-  <h3>🛠 Language and tools</h3>
+  <h2>🛠 Language and tools</h2>
   
   <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
