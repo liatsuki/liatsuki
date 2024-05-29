@@ -4,7 +4,9 @@
   <img height="auto" width="100%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
 
-<svg width="100%" viewBox="0 45 100 55" preserveAspectRatio="xMinYMin meet"><image width="100%" height="100%" href="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" /></svg>
+<div style="width: 100%; height: 0; padding-bottom: 55%; position: relative; overflow: hidden;">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Imagem Responsiva" style="position: absolute; top: -45%; width: 100%; height: auto;">
+</div>
 
 ###
 
