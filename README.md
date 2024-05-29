@@ -34,3 +34,5 @@
 </div> -->
 
 ![Liatsuki GitHub stats](https://github-readme-stats.vercel.app/api?username=liatsuki&theme=graywhite&show_icons=true)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
