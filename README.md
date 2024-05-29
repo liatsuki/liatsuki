@@ -32,5 +32,10 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=liatsuki&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   </div> -->
   
-  ![Liatsuki GitHub stats](https://github-readme-stats.vercel.app/api?username=liatsuki&theme=graywhite&show_icons=true)
-</div>
+  <!--![Liatsuki GitHub stats](https://github-readme-stats.vercel.app/api?username=liatsuki&theme=graywhite&show_icons=true)
+</div>-->
+
+
+[![](https://raw.githubusercontent.com/liatsuki/profile-summary-card/master/profile-summary-card-output/transparent/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/liatsuki/profile-summary-card/master/profile-summary-card-output/transparent/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/liatsuki/profile-summary-card/master/profile-summary-card-output/transparent/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/liatsuki/profile-summary-card/master/profile-summary-card-output/transparent/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/liatsuki/profile-summary-card/master/profile-summary-card-output/transparent/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
