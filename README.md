@@ -6,12 +6,14 @@
   <img height="auto" width="100%" src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif"  />
 </div>
 
-<h2>⚡️ Sobre Mim</h2>
+<h3>⚡️ About Me...</h3>
   <ul>
-    <li>🔭 Formada em História e prestes a começar a faculdade de <strong>Engenharia Informática</strong>.</li>
-    <li>🧐 Estou aprender <strong>programação</strong> do zero e a <strong>matemática</strong> necessário para o começo da licencitura, focando nas bases.</li>
-    <li>🎉 Fun Fact: Eu sei respirar.</li>
+    <li>🔭 Graduated in <i>History</i> and about to start a degree in <i>Computer Engineering</i></li>
+    <li>🧐 I'm learning <i>programming</i> and the mathematics needed to start my degree, focusing on the basics.</li>
+    <li>🎉 Fun Fact: I know how to breathe.</li>
   </ul>
+
+<img src="https://raw.githubusercontent.com/liatsuki/liatsuki/output/snake.svg" alt="Snake animation" />
 
 <div align="center">
   <h2>🛠 Language and tools</h2>
@@ -25,16 +27,6 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   </div>
-  
-  <!--
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=liatsuki&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=liatsuki&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  </div> -->
-  
-  <!--![Liatsuki GitHub stats](https://github-readme-stats.vercel.app/api?username=liatsuki&theme=graywhite&show_icons=true)
-</div>-->
-
 
 [![](https://raw.githubusercontent.com/liatsuki/profile-summary-card/master/profile-summary-card-output/transparent/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/liatsuki/profile-summary-card/master/profile-summary-card-output/transparent/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/liatsuki/profile-summary-card/master/profile-summary-card-output/transparent/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
