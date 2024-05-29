@@ -4,8 +4,8 @@
   <img height="auto" width="100%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
 
-<div style="width: 100%; height: 0; padding-bottom: 55%; position: relative; overflow: hidden;">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Imagem Responsiva" style="position: absolute; top: -45%; width: 100%; height: auto;">
+<div style="width: 100%; height: 300px; overflow: hidden; position: relative;">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Imagem Responsiva" style="position: absolute; top: -150px; width: 100%;">
 </div>
 
 ###
