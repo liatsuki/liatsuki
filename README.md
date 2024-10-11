@@ -8,7 +8,7 @@
 
 <h2>⚡️ About Me...</h2>
   <ul>
-    <li>🔭 I graduated in <i>History</i> and <i>Multimedia</i>. I will soon start studying <i>Computer Engineering</i>.</li>
+    <li>🔭 I graduated in <i>History</i> and <i>Multimedia</i>. I am <i>Computer Engineering</i> student.</li>
     <li>🧐 I'm learning <i>programming</i> and <i>basic math</i> to prepare for my degree.</li>
     <li>📚 Planning to document my entire beginner journey</li>
     <li>🎉 Fun Fact: I know how to breathe.</li>
