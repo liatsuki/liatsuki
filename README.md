@@ -12,6 +12,7 @@
     <li>🧐 I'm learning <i>programming</i> and <i>basic math</i> to prepare for my degree.</li>
     <li>📚 Planning to document my entire beginner journey</li>
     <li>🎉 Fun Fact: I know how to breathe.</li>
+    <li>⚙️ Language and tools: .html, .css, .js, .php, .c</li>
   </ul>
 
 <div align="center">
