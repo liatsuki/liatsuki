@@ -31,4 +31,4 @@
 [![](https://raw.githubusercontent.com/liatsuki/profile-summary-card/master/profile-summary-card-output/transparent/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/liatsuki/profile-summary-card/master/profile-summary-card-output/transparent/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/liatsuki/profile-summary-card/master/profile-summary-card-output/transparent/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/liatsuki/profile-summary-card/master/profile-summary-card-output/transparent/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu_usuario&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liatsuki&layout=compact&theme=radical)
