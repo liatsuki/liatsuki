@@ -1,6 +1,6 @@
 <br clear="both">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=858585&random=false&width=500&height=100&lines=<h1>Hello+World!</h1>;<p>I'm+L%C3%ADdia.</p>;printf("Hello+World!");;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=858585&random=false&width=500&height=100&lines=<h1>Hello+World!</h1>;<p>I'm+L%C3%ADdia.</p>;printf("Hello+World!");)](https://git.io/typing-svg)
 
 <div align="center">
   <img height="auto" width="100%" src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif"  />
