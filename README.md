@@ -4,9 +4,9 @@
 
 **`Computer Engineering Student`**
 
-<!--<div align="center">
+<div align="center">
   <img height="auto" width="100%" src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif"  />
-</div> -->
+</div>
 
 <h2>⚡️ About Me...</h2>
   <ul>
@@ -15,8 +15,6 @@
     <li>📚 Planning to document my entire beginner journey</li>
     <li>🎉 Fun Fact: I know how to breathe.</li>
   </ul>
-
-<br />
   
 <h2>🛠 Language and tools I know...</h2>
   <div>
@@ -26,8 +24,6 @@
     <!-- GIT --><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" />
     <!-- C --><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="40" />
   </div>
-
-<br />
 
 <h2>📊 GitHub Stats & Most Used Languages...</h2>
 
@@ -46,10 +42,3 @@
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=liatsuki&theme=dark&layout=compact" 
   />
-
-
-<!--
-[![](https://raw.githubusercontent.com/liatsuki/profile-summary-card/master/profile-summary-card-output/transparent/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/liatsuki/profile-summary-card/master/profile-summary-card-output/transparent/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/liatsuki/profile-summary-card/master/profile-summary-card-output/transparent/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/liatsuki/profile-summary-card/master/profile-summary-card-output/transparent/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/liatsuki/profile-summary-card/master/profile-summary-card-output/transparent/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
--->
