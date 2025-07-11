@@ -17,7 +17,7 @@
   
   <h2>🛠 Language and tools</h2>
   <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" width="12"/>
   </div>          
   
  <!-- 
