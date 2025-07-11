@@ -16,7 +16,9 @@
   </ul>
   
   <h2>🛠 Language and tools</h2>
-  
+
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/css.svg" />
+ <!-- 
   <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
     <img width="12" />
@@ -26,7 +28,7 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/c-original.svg" height="40" alt="c logo"  />
-  </div>
+  </div>-->
 <!--
 [![](https://raw.githubusercontent.com/liatsuki/profile-summary-card/master/profile-summary-card-output/transparent/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/liatsuki/profile-summary-card/master/profile-summary-card-output/transparent/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/liatsuki/profile-summary-card/master/profile-summary-card-output/transparent/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
