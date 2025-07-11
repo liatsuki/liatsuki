@@ -16,8 +16,10 @@
   </ul>
   
   <h2>🛠 Language and tools</h2>
-
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/c.svg" />
+  <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  </div>          
+  
  <!-- 
   <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
