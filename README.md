@@ -23,18 +23,7 @@
     <!-- GIT --><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" />
     <!-- C --><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="40" />
   </div>          
-  
- <!-- 
-  <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/c-original.svg" height="40" alt="c logo"  />
-  </div>-->
+
 <!--
 [![](https://raw.githubusercontent.com/liatsuki/profile-summary-card/master/profile-summary-card-output/transparent/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/liatsuki/profile-summary-card/master/profile-summary-card-output/transparent/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/liatsuki/profile-summary-card/master/profile-summary-card-output/transparent/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
