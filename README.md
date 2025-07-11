@@ -44,8 +44,9 @@
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=liatsuki&theme=dark" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=liatsuki&theme=dark&layout=compact" 
   />
+
 
 <!--
 [![](https://raw.githubusercontent.com/liatsuki/profile-summary-card/master/profile-summary-card-output/transparent/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
